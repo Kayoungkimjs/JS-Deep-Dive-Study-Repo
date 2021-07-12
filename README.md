@@ -9,7 +9,7 @@
 
 # Javascript Deep Dive Study
 
-> [Javascript Deep Dive](http://www.yes24.com/Product/Goods/92742567?OzSrank=1)를 토대로 자바스크립트 개념을 공부하는 스터디 레포입니다.
+> [Javascript Deep Dive](http://www.yes24.com/Product/Goods/92742567?OzSrank=1)를 토대로 자바스크립트 개념을 공부하는 스터디입니다.
 
 ---
 
