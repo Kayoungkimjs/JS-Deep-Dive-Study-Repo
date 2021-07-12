@@ -36,11 +36,11 @@
 - PR 일정 : 미정 (PR 시간은 자유롭게)
 - 온라인 or 오프라인 미팅 일정 : 미정
 
-### 토픽 정하기
+### 학습분량 정하기
 
 - 매주 온라인 or 오프라인 미팅에서 한 주 동안 공부할 학습분량을 정합니다.
-- 토픽은 [Javascript Deep Dive](http://www.yes24.com/Product/Goods/92742567?OzSrank=1)에 나와있는대로 순차적으로 진행합니다.
-- 매주 토픽은 [Projects Todo](https://github.com/Javascript-Deep-Dive-Study/JS-Deep-Dive-Study-Repo/projects/1)에서 확인할 수 있습니다.
+- 학습분량은 [Javascript Deep Dive](http://www.yes24.com/Product/Goods/92742567?OzSrank=1) 책에 나와있는 목차대로 순차적으로 진행합니다.
+- 매주 학습분량은 [Projects Todo](https://github.com/Javascript-Deep-Dive-Study/JS-Deep-Dive-Study-Repo/projects/1)에서 확인할 수 있습니다.
 
 ### 스터디 규칙
 
@@ -51,22 +51,22 @@
 
 - 포스팅을 하는 이유는 공부한 내용을 글로 정리하며 복습하고 개념을 탄탄히 다지기 위함입니다.
 - 따라서 포스팅은 각자의 스타일대로 진행합니다.
-- 스터디원들이 함께 보고 개념을 복습할 수 있도록 좋은 정보들을 자유롭게 올려주시기 바랍니다 ☺️
+- 스터디원들이 함께 보고 개념을 복습할 수 있도록 좋은 정보들을 자유롭게 올려주시기 바랍니다.
 
 ### PR 규칙
 
 - 각자 공부한 내용을 주차별로 PR합니다.
-- PR은 본인의 폴더에만 진행해주세요.
+- PR은 본인의 폴더에만 진행합니다.
 
 ### 피드백 규칙
 
-- 자유로운 질문, 의견 표출, 지식 공유를 지향합니다.
+- 자유로운 질문, 의견 표출, 지식 공유를 지향합니다.😎
 
 ### 마크다운 사용법
 
 - [마크다운 사용법](https://www.markdowntutorial.com/)
 
 ### 기타사항
-- 자바스크립트 관련 질문은 [Discussion](https://github.com/Javascript-Deep-Dive-Study/JS-Deep-Dive-Study-Repo/discussions/1)을 활용해주세요 
+- 자바스크립트 관련 질문은 [Discussion](https://github.com/Javascript-Deep-Dive-Study/JS-Deep-Dive-Study-Repo/discussions/1)을 활용해주세요.😊
 
 ---
